@@ -1,4 +1,10 @@
 first line
 second line
+<<<<<<< HEAD
 3rd line
 
+||||||| 1fb3ae8
+
+=======
+third line
+>>>>>>> dev
